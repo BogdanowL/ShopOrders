@@ -1,13 +1,41 @@
-composer install
-npm install
-npm run build
+### Laravel 9 using the Porto architectural pattern
 
-npm run vite-build
+```html
+[a link](https://github.com/Mahmoudz/Porto)
+```
+
+```html
+DB : MySql
+```
+
+#### Run the commands:
+
+---
+
+```shell
+    composer install
+    npm install
+    npm run build
+    
+    npm run vite-build
+    
+    php artisan key:generate
+    php artisan passport:install
+    
+    php artisan migrate
+    
+    php artisan serve
+```
 
 
-php artisan key:generate
-php artisan passport:install
+#### To seed data in the DB, use the command:
 
-php artisan migrate
+---
 
-php artisan serve
+```shell
+    php artisan db:seed
+```
+
+---
+
+##### For an example config, use: .env.example
