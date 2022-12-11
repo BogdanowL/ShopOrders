@@ -1,8 +1,6 @@
 ### Laravel 9 using the Porto architectural pattern
 
-```html
 [Porto (Software Architectural Pattern)](https://github.com/Mahmoudz/Porto)
-```
 
 ```html
 DB : MySql
