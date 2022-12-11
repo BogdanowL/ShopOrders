@@ -1,7 +1,7 @@
 ### Laravel 9 using the Porto architectural pattern
 
 ```html
-[a link](https://github.com/Mahmoudz/Porto)
+[Porto (Software Architectural Pattern)](https://github.com/Mahmoudz/Porto)
 ```
 
 ```html
